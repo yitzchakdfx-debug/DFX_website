@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="DFX Company">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eff6ff"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="80" y="310" font-size="72" font-family="Arial, sans-serif" fill="#1e3a8a" font-weight="700">DFX Company</text>
+  <text x="80" y="380" font-size="36" font-family="Arial, sans-serif" fill="#334155">Modern Professional Solutions</text>
+</svg>

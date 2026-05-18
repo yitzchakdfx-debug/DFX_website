@@ -1,0 +1,29 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="560" height="140" viewBox="0 0 560 140" role="img" aria-label="DFX Engineering">
+  <defs>
+    <linearGradient id="d" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#69a4ff"/>
+      <stop offset="100%" stop-color="#3c7bff"/>
+    </linearGradient>
+    <linearGradient id="f" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5f9bff"/>
+      <stop offset="100%" stop-color="#2f6dff"/>
+    </linearGradient>
+    <linearGradient id="x" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7eb3ff"/>
+      <stop offset="100%" stop-color="#4f86ff"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(8 18)">
+    <path d="M22 14h52c24 0 39 15 39 36S98 86 74 86H22z" fill="url(#d)"/>
+    <path d="M42 30h28c10 0 16 7 16 20s-6 20-16 20H42z" fill="#2a4370" opacity="0.55"/>
+
+    <path d="M130 14h70l-12 16h-41v14h35l-10 15h-25v27h-17z" fill="url(#f)"/>
+
+    <g transform="translate(4 0)">
+      <path d="M208 14h22l16 23 16-23h22l-26 36 29 40h-22l-19-27-19 27h-22l29-40z" fill="url(#x)"/>
+    </g>
+
+    <text x="24" y="112" font-size="20" letter-spacing="10" fill="#6fa4ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Engineering</text>
+  </g>
+</svg>
