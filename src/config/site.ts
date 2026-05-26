@@ -3,8 +3,8 @@ export const siteConfig = {
   defaultDescription:
     "Professional corporate website presenting advanced DFT, validation, and engineering solutions.",
   baseUrl: "https://www.example.com",
-  phone: "+972-50-000-0000",
-  email: "info@example.com",
+  phone: "+972-97677288",
+  email: "itzikb@dfx-end.co.il",
   address: "Petah Tikva, Israel",
   copyrightYear: 2026,
   defaultOgImage: "/og-default.svg",

@@ -3,24 +3,23 @@ export type NavItem = { label: string; href?: string; items?: NavSubItem[] };
 
 export const navigationConfig: NavItem[] = [
   { label: "Home", href: "/" },
+  { label: "Services", href: "/services" },
   {
     label: "Solutions",
     items: [
       { label: "Burn IN Rack", href: "/solutions/burn-in-rack" },
-      { label: "Back Plan Tester", href: "/solutions/back-plan-tester" },
-      { label: "Boundary Scan", href: "/solutions/boundary-scan" },
+      { label: "Air System Tester", href: "/solutions/air-system-tester" },
+      { label: "Universal Power Supply Tester", href: "/solutions/universal-power-supply-tester" },
+      { label: "High Voltage Relay Tester", href: "/solutions/high-voltage-relay-tester" },
       { label: "MDA+BS+Functional", href: "/solutions/mda-bs-functional" },
-      { label: "Turn Key", href: "/solutions/turn-key" },
-      { label: "Micro Controller", href: "/solutions/micro-controller" }
+      { label: "Turn Key", href: "/solutions/turn-key" }
     ]
   },
   {
     label: "Products",
     items: [
       { label: "Board Testers", href: "/products/board-testers" },
-      { label: "Programmers", href: "/products/programmers" },
-      { label: "Services", href: "/products/services" },
-      { label: "Introspect", href: "/products/introspect" }
+      { label: "Programmers", href: "/products/programmers" }
     ]
   },
   {
@@ -33,7 +32,7 @@ export const navigationConfig: NavItem[] = [
       { label: "SiliconAid", href: "/companies/siliconaid" },
       { label: "Testonica", href: "/companies/testonica" },
       { label: "Xeltek", href: "/companies/xeltek" },
-      { label: "PIONEER", href: "/companies/pioneer" }
+      { label: "EMC PIONEER", href: "/companies/pioneer" }
     ]
   },
   { label: "About", href: "/about" },
