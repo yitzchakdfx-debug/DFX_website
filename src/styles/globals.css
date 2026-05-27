@@ -6,6 +6,10 @@
   color-scheme: light;
 }
 
+html {
+  font-size: 125%;
+}
+
 * {
   box-sizing: border-box;
 }

@@ -1,0 +1,60 @@
+[
+  {
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-dvh/",
+    "issue": "missing card"
+  },
+  {
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-di-insulated/",
+    "issue": "missing card"
+  },
+  {
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-hvi/",
+    "issue": "missing card"
+  },
+  {
+    "href": "https://www.atx-hardware.de/en/product-2/mmiwgt-a-do/",
+    "issue": "missing card"
+  },
+  {
+    "href": "https://www.atx-hardware.de/en/product-2/me2wg-b/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734",
+    "title": "ME2WK-B (101503)",
+    "expected": [
+      "Moving plate: 275 x 304 mm",
+      "Suitable for basic device: ME2WG-B (101510)",
+      "> ME2PWG-B (101506)"
+    ],
+    "got": [
+      "Moving plate: 275 x 304 mm",
+      "Suitable for basic device: ME2WG-B (101510)",
+      "&gt; ME2PWG-B (101506)"
+    ]
+  },
+  {
+    "href": "https://www.atx-hardware.de/en/product-2/me2wg-c/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734",
+    "title": "ME2WK-C (101502)",
+    "expected": [
+      "Moving plate: 445 x 304 mm",
+      "Suitable for basic device: ME2WG-C (101500)",
+      "> ME2PWG-C (101507)"
+    ],
+    "got": [
+      "Moving plate: 445 x 304 mm",
+      "Suitable for basic device: ME2WG-C (101500)",
+      "&gt; ME2PWG-C (101507)"
+    ]
+  },
+  {
+    "href": "https://www.atx-hardware.de/en/product-2/pwg-pylon-1/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734",
+    "title": "PWK Pylon-1 (100980)",
+    "expected": [
+      "Moving plate: 444 x 276 mm",
+      "Suitable for base unit:",
+      "> PWG Pylon-1 (100978)"
+    ],
+    "got": [
+      "Moving plate: 444 x 276 mm",
+      "Suitable for base unit:",
+      "&gt; PWG Pylon-1 (100978)"
+    ]
+  }
+]

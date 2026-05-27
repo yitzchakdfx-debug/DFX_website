@@ -1,0 +1,326 @@
+[
+  {
+    "front": "MMI-A",
+    "title": "MMI-A (100683)",
+    "desc": "Moving plate: 185 x 310 mm | > Needle force: 1,200 N Standard housing: E01-00145",
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-a/"
+  },
+  {
+    "front": "MMI-A-DO",
+    "title": "MMI-A-DO (100659)",
+    "desc": "Moving plate: 2x 185 x 310 mm | > Needle force: 1,200 N Standard housing: E01-00117 High housing: E01-00118",
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-a-do/"
+  },
+  {
+    "front": "MMI-B",
+    "title": "MMI-B (100639)",
+    "desc": "Moving plate: 275 x 310 mm | > Needle force: 1,200 N Standard housing: E01-00115 High housing: E01-00116",
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-b/"
+  },
+  {
+    "front": "MMI-C",
+    "title": "MMI-C (100640)",
+    "desc": "Moving plate: 445 x 310 mm | > Needle force:1.200 N Standard housing: E01-00117 High housing: E01-00118",
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-c/"
+  },
+  {
+    "front": "MMI-CH",
+    "title": "MMI-CH (100691)",
+    "desc": "Moving plate: 445 x 310 mm | > Needle force: 1,200 N Standard housing: E01-00117 High housing: E01-00118",
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-ch/"
+  },
+  {
+    "front": "MMI-CI",
+    "title": "MMI-CI (100694)",
+    "desc": "Moving plate: 445 x 310 mm | > Needle force: 1,200 N Standard housing: E01-00117 High housing: E01-00118",
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-ci/"
+  },
+  {
+    "front": "MMI-DV",
+    "title": "MMI-DV (100669)",
+    "desc": "Moving plate: 530 x 330 mm | > Needle force: 1,200 N Standard housing: E01-00125 High housing: E01-00133",
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-d/"
+  },
+  {
+    "front": "MMI-EV",
+    "title": "MMI-EV (100232)",
+    "desc": "Moving plate: 890 x 330 mm | > Needle force: 1,200 N Standard housing: E01-00132",
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-e/"
+  },
+  {
+    "front": "MMI-GV",
+    "title": "MMI-GV (100687)",
+    "desc": "Moving plate: 545 x 400 mm | > Needle force: 1,200 N Standard housing: E01-00132",
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-gv/"
+  },
+  {
+    "front": "MMI-HV",
+    "title": "MMI-HV (100182)",
+    "desc": "Moving plate: 650 x 500 mm | > Needle force: 1,200 N Standard housing: E01-00217",
+    "href": "https://www.atx-hardware.de/en/product-2/mmi-hv/"
+  },
+  {
+    "front": "MMIWGT-A",
+    "title": "MMIWGT-A (100247)",
+    "desc": "Moving plate: 185 x 310 mm | > Needle force: 1,200 N Standard housing: E01-00145 MMIWKT-A (100248)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmiwgt-a/"
+  },
+  {
+    "front": "MMIWG2-A",
+    "title": "MMIWG2-A (100276)",
+    "desc": "Moving plate: 294 x 310 mm | > Needle force: 1,600 N Standard housing: E01-00124 High housing: E01-00123 MMIWK-A (100638)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmiwg2-a/"
+  },
+  {
+    "front": "MMIWG2-B",
+    "title": "MMIWG2-B (100277)",
+    "desc": "Moving plate: 424 x 310 mm | > Needle force: 1,600 N Standard housing: E01-00125 High housing: E01-00133 MMIWK-B (100998)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmiwg2-b/"
+  },
+  {
+    "front": "MMIWG2-C",
+    "title": "MMIWG2-C (100278)",
+    "desc": "Moving plate: 554 x 310 mm | > Needle force: 1,600 N Standard housing: E01-00132 MMIWK-C (100661)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmiwg2-c/"
+  },
+  {
+    "front": "MMIWKT-A",
+    "title": "MMIWKT-A (100248)",
+    "desc": "Moving plate: 185 x 310 mm | > Suitable for basic device: MMIWGT-A (100247)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmiwgt-a/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  },
+  {
+    "front": "MMIWK-A",
+    "title": "MMIWK-A (100638)",
+    "desc": "Moving plate: 294 x 310 mm | > Suitable for basic device: MMIWG2-A (100276)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmiwg2-a/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  },
+  {
+    "front": "MMIWK-B",
+    "title": "MMIWK-B (100998)",
+    "desc": "Moving plate: 424 x 310 mm | > Suitable for basic device: MMIWG2-B (100277)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmiwg2-b/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  },
+  {
+    "front": "MMIWK-C",
+    "title": "MMIWK-C (100661)",
+    "desc": "Moving plate: 554 x 310 mm | > Suitable for basic device: MMIWG2-C (100278)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmiwg2-c/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  },
+  {
+    "front": "MMIHF-A-DO-1",
+    "title": "MMIHF-A-DO-1 (100229)",
+    "desc": "Moving plate: 2x 122 x 250 mm | > Standard housing: E01-00118 | > 1 bonnet | 2 test chambers",
+    "href": "https://www.atx-hardware.de/en/product-2/mmihf-a-do-1/"
+  },
+  {
+    "front": "MMIHF-A-DO-2",
+    "title": "MMIHF-A-DO-2 (100230)",
+    "desc": "Moving plate: 2x 122 x 250 mm | > Standard housing: E01-00118 | > 2 bonnets | 2 test chambers",
+    "href": "https://www.atx-hardware.de/en/product-2/mmihf-a-do-2/"
+  },
+  {
+    "front": "MMIHF-B",
+    "title": "MMIHF-B (100223)",
+    "desc": "Moving plate: 290 x 250 mm | > Standard housing: E01-00118",
+    "href": "https://www.atx-hardware.de/en/product-2/mmihf-b/"
+  },
+  {
+    "front": "MMIHF-C",
+    "title": "MMIHF-C (100240)",
+    "desc": "Moving plate: 420 x 250 mm | > Standard housing: E01-00133",
+    "href": "https://www.atx-hardware.de/en/product-2/mmihf-c/"
+  },
+  {
+    "front": "MMIHFWG-B",
+    "title": "MMIHFWG-B (100245)",
+    "desc": "Moving plate: 290 x 250 mm | > Standard housing: E01-00118 MMIHFWK-B (100264)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmihfw-b/"
+  },
+  {
+    "front": "MMIHFWG-C",
+    "title": "MMIHFWG-C (100263)",
+    "desc": "Moving plate: 420 x 250 mm | > Standard housing: E01-00133 MMIHFWK-C (100265)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmihfw-c/"
+  },
+  {
+    "front": "MMIHFWK-B",
+    "title": "MMIHFWK-B (100264)",
+    "desc": "Moving plate: 290 x 250 mm | > Suitable for basic device: MMIHFWG-B (100245)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmihfwg-b/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  },
+  {
+    "front": "MMIHFWK-C",
+    "title": "MMIHFWK-C (100265)",
+    "desc": "Moving plate: 420 x 250 mm | > Suitable for basic device: MMIHFWG-C (100263)",
+    "href": "https://www.atx-hardware.de/en/product-2/mmihfwg-c/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  },
+  {
+    "front": "LHS2-A",
+    "title": "LHS2-A (100707)",
+    "desc": "Moving plate: 130 x 100 mm | > Needle force: 100 N | > Standard height | > Special interior height 80 mm",
+    "href": "https://www.atx-hardware.de/en/product-2/lhs%c2%b2-a/"
+  },
+  {
+    "front": "LHS2-D",
+    "title": "LHS2-D (100828)",
+    "desc": "Moving plate: 170 x 140 mm | > Needle force: 200 N | > Standard height | > Special interior height 80 mm",
+    "href": "https://www.atx-hardware.de/en/product-2/lhs%c2%b2-d/"
+  },
+  {
+    "front": "LHS2-F",
+    "title": "LHS2-F (100961)",
+    "desc": "Moving plate: 240 x 150 mm | > Needle force: 200 N | > Standard height | > Special interior height 80 mm",
+    "href": "https://www.atx-hardware.de/en/product-2/lhs%c2%b2-f/"
+  },
+  {
+    "front": "LHS2WG-F",
+    "title": "LHS2WG-F (100329)",
+    "desc": "Moving plate: 240 x 150mm | > Needle force: 200 N | > Standard height | > Special interior height 80 mm",
+    "href": "https://www.atx-hardware.de/en/product-2/lhs%c2%b2wg-f/"
+  },
+  {
+    "front": "LHS2WK-F",
+    "title": "LHS2WK-F (100330)",
+    "desc": "Moving plate: 240 x 150 mm | > Suitable for basic device: LHS2WG-F (100329)",
+    "href": "https://www.atx-hardware.de/en/product-2/lhs%c2%b2wg-f/?attribute_pa_wechselsystem=nur-wechselkassette"
+  },
+  {
+    "front": "ME2-B",
+    "title": "ME2-B (101501)",
+    "desc": "Moving plate: 275 x 304 mm | > Needle force: 600 N Standard housing: E01-00001 High housing: E01-00012",
+    "href": "https://www.atx-hardware.de/en/product-2/me2-b/"
+  },
+  {
+    "front": "ME2-C",
+    "title": "ME2-C (101509)",
+    "desc": "Moving plate: 445 x 304 mm | > Needle force: 600 N Standard housing: E01-00002 High housing: E01-00025",
+    "href": "https://www.atx-hardware.de/en/product-2/me2-c/"
+  },
+  {
+    "front": "ME2WG-B",
+    "title": "ME2WG-B (101510)",
+    "desc": "Moving plate: 275 x 304 mm | > Needle force: 600 N Standard housing: E01-00001 High housing: E01-00012 ME2WK-B (101503)",
+    "href": "https://www.atx-hardware.de/en/product-2/me2wg-b/"
+  },
+  {
+    "front": "ME2WG-C",
+    "title": "ME2WG-C (101500)",
+    "desc": "Moving plate: 445 x 304 mm | > Needle force: 600 N Standard housing: E01-00002 High housing: E01-00025 ME2WK-C (101502)",
+    "href": "https://www.atx-hardware.de/en/product-2/me2wg-c/"
+  },
+  {
+    "front": "ME2HF-B",
+    "title": "ME2PHF-B (101512)",
+    "desc": "Moving plate: 235 x 265 mm | > Needle force: 600 N Standard housing: E01-00204 High housing: E01-00012",
+    "href": "https://www.atx-hardware.de/en/product-2/me2phf-b/"
+  },
+  {
+    "front": "ME2P-B",
+    "title": "ME2P-B (101504)",
+    "desc": "Moving plate: 275 x 304 mm | > Needle force: 600 N Standard housing: E01-00204 High housing: E01-00012",
+    "href": "https://www.atx-hardware.de/en/product-2/me2p-b/"
+  },
+  {
+    "front": "ME2P-C",
+    "title": "ME2P-C (101505)",
+    "desc": "Moving plate: 445 x 304 mm | > Needle force: 600 N Standard housing: E01-00207 High housing: E01-00025",
+    "href": "https://www.atx-hardware.de/en/product-2/me2p-c/"
+  },
+  {
+    "front": "ME2PWG-B",
+    "title": "ME2PWG-B (101506)",
+    "desc": "Moving plate: 275 x 304 mm | > Needle force: 600 N Standard housing: E01-00204 High housing: E01-00116 ME2WK-B (101503)",
+    "href": "https://www.atx-hardware.de/en/product-2/me2pwg-b/"
+  },
+  {
+    "front": "ME2PWG-C",
+    "title": "ME2PWG-C (101507)",
+    "desc": "Moving plate: 445 x 304 mm | > Needle force: 600 N Standard housing: E01-00207 High housing: E01-00118 ME2WK-C (101502)",
+    "href": "https://www.atx-hardware.de/en/product-2/me2pwg-c/"
+  },
+  {
+    "front": "ME2WK-B",
+    "title": "ME2WK-B (101503)",
+    "desc": "Moving plate: 275 x 304 mm | > Suitable for basic device: ME2WG-B (101510) | > ME2PWG-B (101506)",
+    "href": "https://www.atx-hardware.de/en/product-2/me2wg-b/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  },
+  {
+    "front": "ME2WK-C",
+    "title": "ME2WK-C (101502)",
+    "desc": "Moving plate: 445 x 304 mm | > Suitable for basic device: ME2WG-C (101500) | > ME2PWG-C (101507)",
+    "href": "https://www.atx-hardware.de/en/product-2/me2wg-c/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  },
+  {
+    "front": "MEE-B",
+    "title": "MEE-B (100845)",
+    "desc": "Moving plate: 275 x 230 mm | > Needle force: 1,200 N Standard housing: E01-00124 High housing: E01-00123",
+    "href": "https://www.atx-hardware.de/en/product-2/mee-b/"
+  },
+  {
+    "front": "MEE-C",
+    "title": "MEE-C (100846)",
+    "desc": "Moving plate: 445 x 310 mm | > Needle force: 1,200 N Standard housing: E01-00061",
+    "href": "https://www.atx-hardware.de/en/product-2/mee-c/"
+  },
+  {
+    "front": "MEEWG-A",
+    "title": "MEEWG-A (100847)",
+    "desc": "Moving plate: 240 x 275 mm | > Needle force: 1,200 N Standard housing: E01-00025 MEEWK-A (100848)",
+    "href": "https://www.atx-hardware.de/en/product-2/meewg-a/"
+  },
+  {
+    "front": "MEEWG-B",
+    "title": "MEEWG-B (100849)",
+    "desc": "Moving plate: 445 x 240 mm | > Needle force: 1,200 N Standard housing: E01-00061 MEEWK-B (100850)",
+    "href": "https://www.atx-hardware.de/en/product-2/meewg-b/"
+  },
+  {
+    "front": "MEEWK-A",
+    "title": "MEEWK-A (100848)",
+    "desc": "Moving plate: 240 x 275 mm | > Suitable for basic appliance: MEEWG-A (100847)",
+    "href": "https://www.atx-hardware.de/en/product-2/meewg-a/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  },
+  {
+    "front": "MEEWK-B",
+    "title": "MEEWK-B (100850)",
+    "desc": "Moving plate: 445 x 240 mm | > Suitable for basic device: MEEWG-B (100849)",
+    "href": "https://www.atx-hardware.de/en/product-2/meewg-b/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  },
+  {
+    "front": "MEP100-B",
+    "title": "MEP100-B (100246)",
+    "desc": "Moving plate: 275 x 310 mm | > Needle force: 1,200 N Standard housing: E01-00123",
+    "href": "https://www.atx-hardware.de/en/product-2/mep100-b/"
+  },
+  {
+    "front": "MEP100-C",
+    "title": "MEP100-C (100239)",
+    "desc": "Moving plate: 445 x 310 mm | > Needle force: 1,200 N Standard housing: E01-00133",
+    "href": "https://www.atx-hardware.de/en/product-2/mep100-c/"
+  },
+  {
+    "front": "MEP100WG-B",
+    "title": "MEP100WG-B (100266)",
+    "desc": "Moving plate: 445 x 240 mm | > Needle force: 1,200 N Standard housing: E01-00133 MEP100WK-B (100270)",
+    "href": "https://www.atx-hardware.de/en/product-2/mep100wg-b/"
+  },
+  {
+    "front": "MEP100WK-B",
+    "title": "MEP100WK-B (100270)",
+    "desc": "Moving plate: 445 x 240 mm | > Suitable for basic device: MEP100WG-B (100266)",
+    "href": "https://www.atx-hardware.de/en/product-2/mep100wg-b/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  },
+  {
+    "front": "PWG pylon-1",
+    "title": "PWG Pylon-1 (100978)",
+    "desc": "Moving plate: 444 x 276 mm | > Needle force: 2,000 N Standard housing: E01-00109 PWK-Pylon-1 (100980)",
+    "href": "https://www.atx-hardware.de/en/product-2/pwg-pylon-1-2/"
+  },
+  {
+    "front": "PWK pylon-1",
+    "title": "PWK Pylon-1 (100980)",
+    "desc": "Moving plate: 444 x 276 mm | > Suitable for base unit: | > PWG Pylon-1 (100978)",
+    "href": "https://www.atx-hardware.de/en/product-2/pwg-pylon-1/?attribute_pa_wechselsystem=nur-wechselkassette&amp;attribute_pa_inkl-gehaeuse=ohne-gehaeuse&amp;attribute_pa_inkl-rueckwandblenden=djfzegts734"
+  }
+]
