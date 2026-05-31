@@ -25,4 +25,84 @@ order: 28
       Since 2005, we help our customers to design and test various electronic products. Our Quick Instruments framework, dedicated to the testing of FPGA-based PCBAs already keeps everyday costs down for many high-end customers around the globe, including leaders of industries like telecom, automotive, aerospace, defense, video processing, medical and more.
     </div>
   </section>
+
+  <section className="space-y-4 text-slate-900">
+    <h2 className="text-center text-4xl font-bold">Quick Instruments</h2>
+    <h3 className="text-center text-2xl font-semibold text-slate-700">Test framework for FPGA board quality control</h3>
+    <div className="text-lg leading-relaxed">
+      <strong>Quick Instruments (QI)</strong> is a test & measurement framework that loads itself into on-board FPGA for test, validation or programming purposes. The role of instruments is to verify PCBA hardware infrastructure: on-board interconnections and communication with peripheral components. In this way, every PCBA board can be checked for defects and stability issues. All instruments are pre-compiled for a target board and are being executed from test platform using predefined templates.
+    </div>
+  </section>
+
+  <section className="rounded-xl bg-[#003084] px-4 py-8">
+    <img src="/images/companies/testonica/qi_blue.png" alt="Quick Instruments overview" className="mx-auto h-auto w-full max-w-5xl object-contain" loading="lazy" />
+  </section>
+
+  <section className="space-y-4 text-slate-900">
+    <h2 className="text-center text-3xl font-bold">QI Toolbox</h2>
+    <h3 className="text-center text-xl font-semibold text-slate-700">Transition from crafting to automation</h3>
+    <div className="text-lg leading-relaxed">
+      Although every FPGA-based product has its own application, all PCBAs have a similar HW structure. They contain many typical components, like oscillators, SPI flashes, DDR memories, Ethernet PHYs, high-speed links, etc. The test of these ICs and communication buses can be standardized and fully automated. For each category of peripheral components, there is a particular test or measurement embedded instrument. You may think of embedded instruments as traditional instruments: signal generators, oscilloscopes, etc., but imagine them placed inside the board under test, inside the FPGA.
+    </div>
+    <div className="overflow-x-auto">
+      <table className="min-w-full border border-slate-300 text-left text-base">
+        <thead className="bg-slate-100">
+          <tr>
+            <th className="border border-slate-300 px-3 py-2">Component</th>
+            <th className="border border-slate-300 px-3 py-2">Instrument</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td className="border border-slate-300 px-3 py-2">Oscillator</td><td className="border border-slate-300 px-3 py-2">Frequency Counter</td></tr>
+          <tr><td className="border border-slate-300 px-3 py-2">DDR Memory</td><td className="border border-slate-300 px-3 py-2">Memory Tester</td></tr>
+          <tr><td className="border border-slate-300 px-3 py-2">SPI Flash</td><td className="border border-slate-300 px-3 py-2">Flash Programmer</td></tr>
+          <tr><td className="border border-slate-300 px-3 py-2">SERDES links</td><td className="border border-slate-300 px-3 py-2">Bit Error Rate Tester</td></tr>
+          <tr><td className="border border-slate-300 px-3 py-2">Ethernet PHY</td><td className="border border-slate-300 px-3 py-2">Ethernet Tester</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section className="space-y-4 text-slate-900">
+    <h2 className="text-3xl font-bold">QI test firmware and application firmware synergy</h2>
+    <div className="text-lg leading-relaxed">
+      QI test firmware is used only <strong>temporarily</strong> during production / prototype / troubleshooting stage. It will populate the board when it is fresh (when it is just produced). QI test firmware runs on bare metal and will do just the testing and the diagnosis. It is not going to stay on a board when the board leaves an EMS factory. It will erase itself, so the user firmware (application firmware) will stay and will be shipped to the end customer. Normally, the QI test firmware loads the user's application firmware into the board as a last step on a production line.
+    </div>
+    <img src="/images/companies/testonica/qi-synergy1.png" alt="QI test firmware and user firmware on production line" className="h-auto w-full rounded-lg border border-slate-200" loading="lazy" />
+  </section>
+
+  <section className="space-y-4 text-slate-900">
+    <h2 className="text-3xl font-bold">Testing external interfaces</h2>
+    <div className="text-lg leading-relaxed">
+      Some target devices are on a board under test and are directly addressable by instrumentation. But some others are just interfaces to the external world. Simple I/O connectors, Ethernet links and high-speed interfaces, like LVDS, SMA, SFP or PCIe are some common examples. A matching board or as simple techniques as looping back some buses or adding some external testers (or matching boards) is the way to get complete coverage.
+    </div>
+    <img src="/images/companies/testonica/qi-external-testing1.png" alt="Testing external interfaces with QI" className="h-auto w-full rounded-lg border border-slate-200" loading="lazy" />
+    <h3 className="text-2xl font-semibold">Turn any FPGA-based board into a functional tester</h3>
+    <div className="text-lg leading-relaxed">
+      Contrariwise, a simple board or adapter board can be tested with the help of <strong>Quick Instruments</strong>. Since QI can be compiled for running on any FPGA-based board, it is straightforward to convert such a board into an external functional tester. Some use cases / UUT examples:
+    </div>
+    <ul className="list-disc space-y-2 pl-6 text-lg leading-relaxed">
+      <li>Components on a board under test with external connections via I/O or testpoints</li>
+      <li>Backplanes, adapters (PCB lines are tested), cables</li>
+      <li>Extension board with digital interfaces to DAC/ADCs, PHYs and optical channels</li>
+      <li>External flash programming via I/O lines</li>
+      <li>Generating static or a clock signal on one side and catching on another</li>
+    </ul>
+  </section>
+
+  <section className="space-y-4 text-slate-900">
+    <h2 className="text-3xl font-bold">Key Features</h2>
+    <ul className="list-disc space-y-2 pl-6 text-lg leading-relaxed">
+      <li>Every test engineer and product manager knows how much time is often required to localize the problem. Sometimes it takes hours, sometimes days or even months to find the root cause. It is even worse if the product is already coated and packaged when you detect the failure.</li>
+      <li>Using <strong>Quick Instruments</strong>, you can test the board component by component and gigabit links - line by line. In case of a failure, you know exactly which communication bus or line does not work properly. This considerably shortens the searching area and streamlines the repair. The important aspect is that this information is available <strong>before</strong> the board has left EMS production facilities and product owner does not receive defective PCBAs.</li>
+      <li>All our instruments are pre-developed, fetched from the off-the-shelf instrumentation library and compiled for a particular board under test using our back-end compilation servers. As a result, ready-to-use test firmware is available in just half a day. You don't need an application firmware, no FPGA design tools and knowledge required.</li>
+      <li>All our tests are optimized for short test duration and can be executed during the end-of-line manufacturing tests. The instruments are working in the same conditions which a board designer planned and in the same way as the FPGA designer will run the application. Standard test techniques like ICT, Boundary Scan, and Flying Probe in many cases are not capable to verify high-speed interfaces and components on a bare board with an FPGA. With <strong>Quick Instruments</strong>, tests are executed at full functional speed (at-speed testing).</li>
+      <li>By its nature, Quick Instruments is a software product. Being embedded to the FPGA logic and by applying the test from the inside, Quick Instruments have a set of unique advantageous features: an access to <strong>internal</strong> on-board signals, no need for testpoints and nails, no signal integrity issues.</li>
+      <li>Almost <strong>no price for a duplicate</strong>. You can scale the number of production lines and you only need a USB-to-JTAG cable.</li>
+      <li>No need for maintenance or calibration, no degradation in performance (<strong>can't outdate</strong>).</li>
+      <li><strong>Easier logistics</strong>: virtual Instruments that can be sent over email, copied and backed up.</li>
+    </ul>
+  </section>
 </div>
+
+

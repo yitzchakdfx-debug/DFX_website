@@ -25,7 +25,6 @@ export const navigationConfig: NavItem[] = [
     items: [
       { label: "Board Testers", href: "/products/board-testers" },
       { label: "Programmers", href: "/products/programmers" },
-      { label: "Xeltek Programming Systems", href: "/products/xeltek-programming-systems" }
     ]
   },
   {
