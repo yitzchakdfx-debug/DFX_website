@@ -10,10 +10,10 @@ export function SiteHeader() {
         Skip to main content
       </a>
 
-      <div className="flex h-16 w-full items-center justify-between gap-3 px-3 sm:h-20 sm:px-5 lg:px-8">
+      <div className="flex h-14 w-full items-center justify-between gap-2 px-3 sm:h-20 sm:gap-3 sm:px-5 lg:px-8">
         <Link
           href="/"
-          className="flex h-16 shrink-0 items-stretch bg-white sm:h-20"
+          className="flex h-14 shrink-0 items-stretch bg-white sm:h-20"
           aria-label="DFX Engineering Home"
         >
           <Image

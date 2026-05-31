@@ -15,8 +15,8 @@ export const navigationConfig: NavItem[] = [
       { label: "Base Station Tester", href: "/solutions/base-station-tester" },
       { label: "Burn-In Cabinet for Boards", href: "/solutions/card-burn-in-cabinet" },
       { label: "Solar Panel Controller Tester", href: "/solutions/solar-panel-controller-tester" },
-      { label: "Accident Prevention System Tester", href: "/solutions/accident-prevention-system-tester" },
-      { label: "Wire Coloring System Tester", href: "/solutions/wire-coloring-system-tester" },
+      { label: "Road Driver Controller Tester", href: "/solutions/accident-prevention-system-tester" },
+      { label: "Digital Printing Controller Tester", href: "/solutions/wire-coloring-system-tester" },
       { label: "Collar Tester", href: "/solutions/collar-tester" }
     ]
   },

@@ -9,7 +9,7 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
       <SiteHeader />
       <main
         id="main-content"
-        className="mx-auto w-full max-w-6xl flex-1 animate-page-enter px-4 py-10 sm:px-6 lg:px-8"
+        className="mx-auto w-full max-w-6xl flex-1 animate-page-enter px-3 py-6 sm:px-6 sm:py-10 lg:px-8"
       >
         {children}
       </main>

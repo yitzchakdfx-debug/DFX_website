@@ -21,6 +21,16 @@ body {
   color: #0f172a;
 }
 
+@media (max-width: 767px) {
+  html {
+    font-size: 100%;
+  }
+
+  body {
+    background: #f8fafc;
+  }
+}
+
 a {
   color: inherit;
   text-decoration: none;
