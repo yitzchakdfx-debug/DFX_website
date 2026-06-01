@@ -17,7 +17,7 @@ export function SiteHeader() {
           aria-label="DFX Engineering Home"
         >
           <Image
-            src="/logo.gif"
+            src="/logo.png"
             alt="DFX Engineering"
             width={260}
             height={130}

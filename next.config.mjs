@@ -5,8 +5,11 @@ const withMDX = createMDX({
 });
 
 const nextConfig = {
+  output: "export",
+  trailingSlash: true,
   pageExtensions: ["js", "jsx", "ts", "tsx", "md", "mdx"],
   images: {
+    unoptimized: true,
     formats: ["image/avif", "image/webp"],
     remotePatterns: [
       {
