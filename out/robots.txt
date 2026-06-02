@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://dfx-end.co.il/sitemap.xml
+Sitemap: http://www.dfx-eng.co.il/sitemap.xml
